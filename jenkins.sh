@@ -5,7 +5,7 @@ yum install git -y
 
 #STEP-2: INSTALLING MAVEN
 
-ECHO ##########INSTALLING MAVEN ##########
+ECHO ##########INSTALLING MAVEN ###########
 yum install maven -y
 
 #step-4: INSTALLING java
