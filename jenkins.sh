@@ -28,3 +28,5 @@ systemctl status jenkins.service
 
 exit
 ## end of the script##
+
+### restarted jenkins.sh
