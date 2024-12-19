@@ -27,3 +27,4 @@ systemctl start jenkins.service
 systemctl status jenkins.service
 
 exit
+## end of the script##
